@@ -1,0 +1,18 @@
+body {
+  font-family: arial;
+  background-color: #58FAD0;
+}
+
+p{
+
+  color:#F6CED8;
+  font-weight: bolder;
+  text-align: center;
+}
+
+h1 {
+  color:#58FAD0;
+  font-size: 60px;
+  text-align: center;
+  background-image: url(https://cdn.pixabay.com/photo/2016/04/06/10/08/pink-1311251_960_720.jpg);
+} /*maybe switch to block?*/
